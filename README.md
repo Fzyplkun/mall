@@ -1,3 +1,5 @@
+项目效果：
+https://user-gold-cdn.xitu.io/2020/4/3/171404eeea69b3f2?imageslim
 # mall-second
 
 ## Project setup
